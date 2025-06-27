@@ -10,7 +10,7 @@ if (keystorePropertiesFile.exists()) {
     keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
 }
 android {
-    compileSdk 34
+    compileSdk 35
     namespace 'com.example.apptest2024'
     kotlinOptions {
         jvmTarget = "1.8"  // Update to a valid target version like 1.8
@@ -18,7 +18,7 @@ android {
     defaultConfig {
         applicationId "com.example.apptest2024" // Replace with your actual application ID
         minSdk 23
-        targetSdk 34
+        targetSdk 35
         versionCode 1
         versionName "1.0"
     }
