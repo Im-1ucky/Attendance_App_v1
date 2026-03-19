@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317267477792",
+    "project_id": "attendance-lucky",
+    "storage_bucket": "attendance-lucky.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317267477792:android:5c061388db5705d1184345",
+        "android_client_info": {
+          "package_name": "com.example.apptest2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZOfwz_JisSkkfgksjqbVjsDJGIyR05iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
